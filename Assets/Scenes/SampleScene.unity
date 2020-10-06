@@ -453,6 +453,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7eb7d13da9641074d99662630dc8050b, type: 2}
+    - target: {fileID: 2230382114598844069, guid: 81aab9ebca8d543498e6a2d663da8df5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2233159609872564409, guid: 81aab9ebca8d543498e6a2d663da8df5,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -588,6 +593,16 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7eb7d13da9641074d99662630dc8050b, type: 2}
+    - target: {fileID: 6654064065418048055, guid: 81aab9ebca8d543498e6a2d663da8df5,
+        type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654064065418048055, guid: 81aab9ebca8d543498e6a2d663da8df5,
+        type: 3}
+      propertyPath: m_ReceiveGI
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6679222885339587586, guid: 81aab9ebca8d543498e6a2d663da8df5,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -901,7 +916,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 0, y: 2.68, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
